@@ -12,6 +12,7 @@ Se tiver alguma dica, submeta =)
  - https://github.com/MISP/PyMISP
  - https://pythonbrasil.slack.com
  - https://grupysp.slack.com
+ - https://github.com/grupy-sp
 
 #### Torrent
  - http://speed-share.org
