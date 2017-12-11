@@ -13,6 +13,10 @@ Se tiver alguma dica, submeta =)
  - https://pythonbrasil.slack.com
  - https://grupysp.slack.com
  - https://github.com/grupy-sp
+ - http://www.i-programmer.info/programming/python/5785-advanced-python-arrays-introducing-numpy.html
+ - https://finxter.com/
+ - https://www.quora.com/What-are-complex-concepts-in-Python-to-understand
+ - http://docs.python-guide.org/en/latest/intro/learning/
 
 #### Torrent
  - http://speed-share.org
