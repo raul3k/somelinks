@@ -2,6 +2,9 @@
 Alguns links úteis para não serem perdidos
 Se tiver alguma dica, submeta =)
 
+#### Javascript
+ - http://codeblog.cz/vanilla  (jQuery to Vanilla)
+
 #### PHP
  - https://github.com/ziadoz/awesome-php
  - https://phpsp.slack.com
