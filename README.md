@@ -4,6 +4,7 @@ Se tiver alguma dica, submeta =)
 
 #### Javascript
  - http://codeblog.cz/vanilla  (jQuery to Vanilla)
+ - https://project-awesome.org/Urigo/awesome-meteor
 
 #### PHP
  - https://github.com/ziadoz/awesome-php
