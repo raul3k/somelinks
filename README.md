@@ -30,3 +30,7 @@ Se tiver alguma dica, submeta =)
  - https://github.com/rshipp/awesome-malware-analysis
  - http://www.misp-project.org/
  - https://github.com/MISP/MISP
+
+#### Computer Science Carrear
+ - https://github.com/ossu/computer-science
+ 
