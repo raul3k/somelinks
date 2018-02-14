@@ -2,6 +2,10 @@
 Alguns links úteis para não serem perdidos
 Se tiver alguma dica, submeta =)
 
+#### Git
+ - https://github.com/k88hudson/git-flight-rules
+ - http://ohshitgit.com/
+
 #### Javascript
  - http://codeblog.cz/vanilla  (jQuery to Vanilla)
  - https://project-awesome.org/Urigo/awesome-meteor
