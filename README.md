@@ -34,7 +34,7 @@ Se tiver alguma dica, submeta =)
  - https://github.com/rshipp/awesome-malware-analysis
  - http://www.misp-project.org/
  - https://github.com/MISP/MISP
- - https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
+ - https://github.com/danielmiessler/SecLists/
 
 #### Computer Science Carrear
  - https://github.com/ossu/computer-science
