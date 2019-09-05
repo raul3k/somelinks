@@ -25,10 +25,7 @@ Se tiver alguma dica, submeta =)
  - https://finxter.com/
  - https://www.quora.com/What-are-complex-concepts-in-Python-to-understand
  - http://docs.python-guide.org/en/latest/intro/learning/
-
-#### Torrent
- - http://speed-share.org
- - http://bj-share.me
+ 
 
 #### Infosec
  - https://github.com/rshipp/awesome-malware-analysis
