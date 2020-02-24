@@ -28,6 +28,7 @@ Se tiver alguma dica, submeta =)
 
 #### Haskell
  - http://learnyouahaskell.com/chapters
+ - https://www.haskell.org/documentation/
  
 
 #### Infosec
