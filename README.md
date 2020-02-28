@@ -25,6 +25,13 @@ Se tiver alguma dica, submeta =)
  - https://finxter.com/
  - https://www.quora.com/What-are-complex-concepts-in-Python-to-understand
  - http://docs.python-guide.org/en/latest/intro/learning/
+ 
+#### Ruby (And Rails)
+ - http://ruby-doc.com/docs/ProgrammingRuby/
+ - https://guides.rubyonrails.org/
+ - https://guides.rubyonrails.org/getting_started.html
+ - https://www.toptal.com/ruby/the-many-shades-of-the-ruby-programming-language
+ - https://www.toptal.com/ruby-on-rails#hiring-guide
 
 #### Haskell
  - http://learnyouahaskell.com/chapters
