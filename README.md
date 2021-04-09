@@ -44,6 +44,6 @@ Se tiver alguma dica, submeta =)
  - https://github.com/MISP/MISP
  - https://github.com/danielmiessler/SecLists/
 
-#### Computer Science Carrear
+#### Computer Science Career
  - https://github.com/ossu/computer-science
  
